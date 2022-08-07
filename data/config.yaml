@@ -1,4 +1,4 @@
-name: DQ_Jeon
+name: DQ_Log
 enableToc: true
 openToc: true
 enableLinkPreview: false
@@ -13,4 +13,4 @@ page_title:
   "DQ's garden"
 links:
   - link_name: About
-    link: https://dqjeon.github.io/about
+    link: https://dqlog.github.io/about

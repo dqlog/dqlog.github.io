@@ -1,6 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+baseURL = "https://dqlog.github.io/"
+languageCode = "UTF-8"
+googleAnalytics = "G-TZ2SXKZNEC"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true

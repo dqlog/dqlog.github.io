@@ -1,27 +1,15 @@
 ---
-title: 🪴 Quartz 3.2
+title: "DQ's garden"
+alias: "home"
+enableToc: true
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# Welcome
+안녕하세요. DQ_Jeon의 정원입니다.
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+내용을 차차 늘려가도록 하겠습니다.
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
-
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
-
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
-
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
-
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+# 글타래
+* [[20220627171308902|Obsidian 관련 글 모음]]
+* [[20220627171255084|다공바인더 제품 관련 정리]]
+* [[20220627172110673|NAS 관련]]

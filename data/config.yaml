@@ -1,4 +1,4 @@
-name: DQ_Log
+name: DQ_archive
 enableToc: true
 openToc: true
 enableLinkPreview: false
@@ -8,9 +8,9 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 description:
-  DQ의 정원입니다.
+  DQ의 디지털정원입니다.
 page_title:
-  "DQ's garden"
+  "DQ's archive"
 links:
   - link_name: About
     link: https://dqlog.github.io/about

@@ -1,5 +1,5 @@
 ---
-title: "DQ's garden"
+title: "DQ's archive"
 alias: "home"
 enableToc: true
 ---
@@ -7,7 +7,7 @@ enableToc: true
 # Welcome
 안녕하세요. 전덕규의 디지털가든입니다.
 
-필요한 글을 생성하고 공유하는 용도로 사용합니다.
+글을 묶어 공유하는 용도로 사용합니다.
 
 글 리스트를 자동으로 생성해서 사용하지는 않습니다.
 

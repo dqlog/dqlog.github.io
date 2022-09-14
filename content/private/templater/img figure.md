@@ -1,5 +1,1 @@
-{{< raw >}}<figure>{{< /raw >}}
-
-{{< raw >}}<figcaption>{{< /raw >}}          
-
-{{< raw >}}</figcaption></figure>{{< /raw >}}
+{{< raw >}}<figure>{{< /raw >}}   이미지추가       {{< raw >}}<figcaption>{{< /raw >}}     하단캡션추가            {{< raw >}}</figcaption></figure>{{< /raw >}}

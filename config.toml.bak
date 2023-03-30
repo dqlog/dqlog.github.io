@@ -14,9 +14,9 @@ enableGitInfo = true
 
 [markup]
     [markup.tableOfContents]
-        endLevel = 6
+        endLevel = 3
         ordered = true
-        startLevel = 1
+        startLevel = 2
     [markup.highlight]
         anchorLineNos = false
         codeFences = true
